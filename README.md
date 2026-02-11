@@ -9,7 +9,7 @@ Install uv if you don't have it
 Next:
 
 ```uv sync```
-
+```source .venv/bin/activate```
 ```uv run main.py```
 
 
